@@ -1,0 +1,96 @@
+package pruebajuego1;
+/**
+ *
+ * @author sergi
+ */
+import java.util.Scanner;
+public class PruebaJuego1 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        int intRespuesta;
+        Scanner sc = new Scanner(System.in);
+        do{
+        System.out.println("Elije la categoria:");
+        System.out.println("1.Mates");
+        System.out.println("2.Idiomas");
+        System.out.println("3.Fotos animales en diferentes idiomas");
+        System.out.println("4.TÃ¡ctiles");
+        System.out.println("5.Salir");
+        intRespuesta = sc.nextInt();
+        switch(intRespuesta){
+            case 1:Quiz1();
+            break;
+            case 2:Quiz2();
+            break;
+            case 3:Quiz3();
+            break;
+            case 4:
+            break;
+            case 5:
+            break;
+        }
+        }
+        while(intRespuesta!=5);
+    }
+    public static void Quiz1(){
+        int intRespuesta;
+        Scanner sc = new Scanner(System.in);
+        
+        do{
+        System.out.println("Cual es el resultado de: 2+2?");
+        System.out.println("2");
+        System.out.println("4");
+        System.out.println("5");
+        System.out.println("7");
+        intRespuesta = sc.nextInt();
+        if(intRespuesta==4){
+            System.out.println("Correcto!");
+        }
+        else
+            System.out.println("Fallaste!");
+        }
+        while(intRespuesta!=4);
+    }
+    public static void Quiz2(){
+        int intRespuesta;
+        Scanner sc = new Scanner(System.in);
+        
+        do{
+        System.out.println("Que hace el perro?");
+        System.out.println("1.Guau");
+        System.out.println("2.Miua");
+        System.out.println("3.Muuu");
+        System.out.println("4.Cuak");
+        intRespuesta = sc.nextInt();
+        if(intRespuesta==1){
+            System.out.println("Correcto!");
+        }
+        else
+            System.out.println("Fallaste!");
+        }
+        while(intRespuesta!=1);
+    }
+    public static void Quiz3(){
+        int intRespuesta;
+        Scanner sc = new Scanner(System.in);
+        
+        do{
+        System.out.println("Lion");
+        System.out.println("1.Perro");
+        System.out.println("2.Leon");
+        System.out.println("3.Caballo");
+        System.out.println("4.Pato");
+        intRespuesta = sc.nextInt();
+        if(intRespuesta==2){
+            System.out.println("Correcto!");
+        }
+        else
+            System.out.println("Fallaste!");
+        }
+        while(intRespuesta!=2);
+    }
+    
+}
