@@ -1,0 +1,5 @@
+coche -> coche casa mesa
+casa -> casa mesa coche
+mesa -> coche casa mesa
+
+(para el inglés lo mismo pero con traduccion).

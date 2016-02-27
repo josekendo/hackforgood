@@ -1,0 +1,5 @@
+rana -> rana perro gato
+conejo -> conejo perro gato
+leon -> leon perro gato
+
+(para el inglés, lo mismo pero traducido).
