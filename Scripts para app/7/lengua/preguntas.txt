@@ -1,0 +1,27 @@
+3,#3+1,#Matemáticas,#img_apple3.png^img_default.png^img_apple.png,#0,#4,#2,#3,#1
+3,#2-1,#Matemáticas,#img_pear2.png^img_-.png^img_pear.png,#2,#4,#2,#1,#3
+3,#4-2,#Matemáticas,#img_watermelon4.png^img_-.png^img_watermelon2.png,#0,#2,#4,#3,#1
+5,#4+5,#Matemáticas,#img_4.png^img_default.png^img_5.png,#0,#9,#5,#4,#7
+5,#7-3,#Matemáticas,#img_7.png^img_-.png^img_3.png,#1,#6,#4,#3,#1
+5,#5+5,#Matemáticas,#img_5.png^img_default.png^img_5.png,#3,#7,#6,#4,#10
+7,#30+15,#Matemáticas,#img_3.png^img_0.png^img_default.png^img_1.png^img_5.png,#0,#45,#44,#35,#50
+7,#72-12,#Matemáticas,#img_7.png^img_2.png^img_-.png^img_1.png^img_2.png,#2,#70,#64,#60,#52
+7,#134+49,#Matemáticas,#img_1.png^img_3.png^img_4.png^img_default.png^img_4.png^img_9.png,#1,#180,#183,#181,#185
+3,#escogeranimal,#Castellano,#img_frog.png,#0,#rana,#perro,#gato,#liebre
+3,#escogeranimal,#Castellano,#img_rabbit.png,#1,#perro,#conejo,#gato,#ratón
+3,#escogeranimal,#Castellano,#img_lion.png,#1,#gato,#leon,#perro,#tigre
+5,#escogerobjeto,#Castellano,#img_car.png,#3,#casa,#mesa,#acera,#coche
+5,#escogerobjeto,#Castellano,#img_house.png,#0,#casa,#mesa,#coche,#ventana
+5,#escogerobjeto,#Castellano,#img_table.png,#1,#coche,#mesa,#casa,#silla
+7,#escogerobjeto,#Castellano,#img_bag.png,#0,#mochila,#bolso,#bolsa,#riñonera
+7,#escogerobjeto,#Castellano,#img_bird.png,#3,#colibrí,#cuervo,#halcón,#pájaro
+7,#escogerobjeto,#Castellano,#img_phone.png,#2,#caja,#radio,#teléfono,#ladrillo
+3,#escogeranimal,#Inglés,#img_frog.png,#0,#frog,#dog,#cat,#hare
+3,#escogeranimal,#Inglés,#img_rabbit.png,#1,#dog,#rabbit,#cat,#mouse
+3,#escogeranimal,#Inglés,#img_lion.png,#1,#cat,#lion,#dog,#tiger
+5,#escogerobjeto,#Inglés,#img_car.png,#3,#house,#table,#sidewalk,#car
+5,#escogerobjeto,#Inglés,#img_house.png,#0,#house,#table,#car,#window
+5,#escogerobjeto,#Inglés,#img_table.png,#1,#car,#table,#house,#chair
+7,#escogerobjeto,#Inglés,#img_bag.png,#0,#bag,#handbag,#pouch,#belt
+7,#escogerobjeto,#Inglés,#img_bird.png,#3,#humming bird,#crow,#hawk,#bird
+7,#escogerobjeto,#Inglés,#img_phone.png,#2,#box,#radio,#phone,#brick
